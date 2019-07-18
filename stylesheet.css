@@ -1,0 +1,20 @@
+body {background-color:gray}
+h1 {
+    color:red;
+    font:size 24px;}
+h2 {color:red;
+font:size 24px;}
+h3{
+    color:red;
+    font:size 24px;
+}
+
+p {
+    color:darkred;
+    }
+.dotted {
+    border-style:dotted;
+    }
+ul {color:rgb(202, 16, 16);
+}
+ol{color:rgba(158, 17, 17, 0.788)}
